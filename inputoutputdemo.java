@@ -3,7 +3,7 @@
 // Import the Scanner from inbuilt packages "util"
 import java.util.Scanner;
 
-public class inputdemo {
+public class inputoutputdemo {
     public static void main(String args[]) {
         // int a; int-datatype, a-variable
         // Scanner scanner; Scanner-class, scanner-object
